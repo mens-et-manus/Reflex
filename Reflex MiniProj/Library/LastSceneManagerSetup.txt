@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Scenes/Reflex_var_wall.unity
+  isLoaded: 1
+  isActive: 1
